@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/Milad-agdam/Milad-agdam/blob/master/Milad-agdam.png" width=240 height=80>
 </p>
 
@@ -9,7 +9,7 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=119721">
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink">
 </p>
-<hr>
+<hr> -->
 
 ### My Stats:
 <p align="center">
