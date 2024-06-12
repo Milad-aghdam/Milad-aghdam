@@ -1,5 +1,3 @@
-
-
 ### My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Milad-aghdam&show_icons=true&theme=merko" alt="Milad Ghashangi Agdam's GitHub stats" /><br />
