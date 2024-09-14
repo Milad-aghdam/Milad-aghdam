@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on expanding my machine learning and visualization skills.<br>👯 I’m looking to collaborate on data automation and analysis projects.<br>🤝 Open to help with data extraction, transformation, and APIs.<br>🌱 I’m currently learning advanced deep learning and big data processing.<br>💬 Ask me about Python, Power BI, SQL, and dashboards.<br>⚡ Fun fact  I love automating solutions to complex data challenges.
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Milad-aghdam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
